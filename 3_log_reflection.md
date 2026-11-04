@@ -1,3 +1,5 @@
+The data provided can tell the difference between prices of a few items across city 1 and 2. It can also tell the month the prices increased the most. It can tell the authenticity of the data and its purpose intended. It cannot tell average price of an item in a whole city because of its limited sample size. It cannot tell the global best price of the items. It cannot tell the quality differences between the items present across different shops.
+
 The most tempting suggestion was that people are simply changing their spending habits rather than facing rising prices. However, this is unsupported because we haven't examined actual household spending data. Without historical price and consumption data, we cannot confidently conclude that this is true.
 
 Nothing has changed in my thinking regarding the data.
