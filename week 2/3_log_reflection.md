@@ -1,0 +1,2 @@
+I said that the value for the missing cell in the price column should be entered while ChatGPT didn't do anything useful about it. I think my decision was better because it moved towards completing the dataset.
+ChatGPT gave me code that was unfamiliar to me, so I removed the lines I wasn't able to explain. If I had not used AI I would've missed saving the file with the help of Python code as a file that could be accessed even when the interpreter was closed. I learned the .to_csv() code from ChatGPT.
