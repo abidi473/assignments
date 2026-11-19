@@ -11,3 +11,5 @@ O4: When comparing Sweetener D with and without flagged values, its mean changes
 O5: For Oil B, Pulse C, and Sweetener D, either average gives a similar indication of the typical price, whereas the median is more representative for Staple A because it is less influenced by unusually high observations.
 
 O6: The comparison of Sweetener D demonstrates that the mean is more sensitive to extreme observations than the median.
+
+## Commit b7f048e3731d9ddcbe4237fb8e5c405f6140919d

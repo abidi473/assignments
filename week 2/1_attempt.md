@@ -11,4 +11,3 @@ Decisions
 2. Remove the duplicate because the copy is not necessary and will lead to incorrect statistics.
 3. Remove the comma, because Python cannot read the value.
 4. Capitalize it the way other items of its group have been capitalized because this will allow correct categorization for Python to read.
-
